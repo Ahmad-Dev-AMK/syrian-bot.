@@ -1,0 +1,16 @@
+python-telegram-bot
+google-generativeai
+requests
+qrcode
+Faker
+psutil
+phonenumbers
+whois
+dnspython
+beautifulsoup4
+user-agent
+python-docx
+python-pptx
+fpdf
+SpeechRecognition
+pydub
